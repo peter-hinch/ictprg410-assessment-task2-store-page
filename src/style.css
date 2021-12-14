@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;0,600;1,300;1,500&display=swap');
+
+/* TODO - REMOVE ONCE FINISHED */
+.debug-css{
+    border: 1px red solid;
+}
+
+h1, h2, h3, h4, h5, h6, .nav-item {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.color1{ color: #EDEBE0;}
+.bg-color1{ background-color: #EDEBE0;}
+
+.color2{ color: #9C6D65;}
+.bg-color2{ background-color: #9C6D65;}
+
+.color3{ color: #71878F;}
+.bg-color3{ background-color: #71878F;}
+
+.color4{ color: #D5B17A;}
+.bg-color4{ background-color: #D5B17A;}
+
+.color5{ color: #ADB7BA;}
+.bg-color5{ background-color: #ADB7BA;}
+
+.color6{ color: #DDD2C3;}
+.bg-color6{ background-color: #DDD2C3;}
+
+.color7{ color: #666E60;}
+.bg-color7{ background-color: #666E60;}
+
+.color8{ color: #644736;}
+.bg-color8{ background-color: #644736;}
+
+.color9{ color: #8A8474;}
+.bg-color9{ background-color: #8A8474;}
+
+.color10{ color: #303E4D;}
+.bg-color10{ background-color: #303E4D;}
